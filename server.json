@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.yondry-ltd/day-planner",
+  "title": "Yondry: Day Out Planner",
+  "description": "Plan your perfect day out anywhere: itineraries and neighbourhood guides, tuned to mood and weather.",
+  "version": "1.0.1",
+  "websiteUrl": "https://yondry.app",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://yondry.app/mcp"
+    }
+  ]
+}
